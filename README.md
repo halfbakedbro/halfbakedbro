@@ -3,7 +3,7 @@
 ## I'm a Husband, Father, Developer!
 - 🔭 I’m currently working on a [Golang WebApp][website]!
 - 🌱 I’m currently learning Golang, BlockChain
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 💬 Ask me anything related to C/OS/Windows Device Driver/Linux/Windows System programming/Golang
 
 ### Connect with me:
