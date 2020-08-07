@@ -1,7 +1,7 @@
 ### Hi there, I'm Ajit Bansal - aka halfbakedbro 👋
 
 ## I'm a Husband, Father, Developer!
-- 🔭 I’m currently working on a [Golang WebApp][https://encode-online.herokuapp.com/]!
+- 🔭 I’m currently working on a [Golang WebApp][website]!
 - 🌱 I’m currently learning Golang, BlockChain
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -27,12 +27,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-<br />
 
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-
+[website]: https://encode-online.herokuapp.com/
 [instagram]: https://www.instagram.com/ajit_bansal12
 [linkedin]: https://www.linkedin.com/in/ajit-bansal-5049827b/
