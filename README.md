@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on a [Golang WebApp][website]!
 - 🌱 I’m currently learning Golang, BlockChain
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Ask me anything related to C/OS/Windows Device Driver/Linux/Windows System programming/Golang
 
 ### Connect with me:
