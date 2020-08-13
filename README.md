@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Golang, BlockChain
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me anything related to C/OS/Windows Device Driver/Linux/Windows System programming/Golang
+- 💬 Started my Blog Please check it out [Personel Blog][githubio]. In time with experience the content will be structured more
 
 ### Connect with me:
 
@@ -34,3 +35,4 @@
 [html]:https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]:https://developer.mozilla.org/en-US/docs/Web/CSS
 [sql]:https://www.mysql.com/
+[githubio]:https://halfbakedbro.github.io
