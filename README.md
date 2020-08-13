@@ -35,4 +35,4 @@
 [html]:https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]:https://developer.mozilla.org/en-US/docs/Web/CSS
 [sql]:https://www.mysql.com/
-[githubio]:https://halfbakedbro.github.io
+[githubio]:https://halfbakedbro.github.io/post/
