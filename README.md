@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on a [Golang WebApp][website]!
 - 🌱 I’m currently learning Golang
 - 💬 Ask me anything related to Windows Device Driver/Linux/Windows System programming
-- 💬 Started my Blog Please check it out [Personal Blog][githubio]. In time with experience the content will be structured more
 
 ### Connect with me:
 
